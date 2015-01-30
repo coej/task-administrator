@@ -1,0 +1,15 @@
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\bin\Release\CsharpSerial3.exe.config
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\bin\Release\CsharpSerial3.exe
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\bin\Release\CsharpSerial3.pdb
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\MainWindow.baml
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\MainWindow.g.cs
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\App.g.cs
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\CsharpSerial3_MarkupCompile.cache
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\CsharpSerial3.g.resources
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\CsharpSerial3.Properties.Resources.resources
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\CsharpSerial3.csproj.GenerateResource.Cache
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\CsharpSerial3.exe
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\CsharpSerial3.pdb
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\bin\Release\Media\notify2.wav
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\obj\Release\CsharpSerial3_Content.g.cs
+C:\_Chris\_Sync\Dropbox\_Programming-MSVS\CsharpSerial1\CsharpSerial3\bin\Release\Media\prenotify.wav
